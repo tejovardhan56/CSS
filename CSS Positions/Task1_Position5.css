@@ -1,0 +1,36 @@
+.abc{
+	background-color: #FF1493;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.efg{
+	background-color: #17DEF2;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.xyz{
+	background-color: #1DC70F;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.lmn{
+	background-color: yellow;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
